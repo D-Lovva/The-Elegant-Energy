@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "elegantEnergy", "elegantEnergy.csproj", "{ED9D64F1-51C0-4148-9C1A-37602E671F9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED9D64F1-51C0-4148-9C1A-37602E671F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED9D64F1-51C0-4148-9C1A-37602E671F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED9D64F1-51C0-4148-9C1A-37602E671F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED9D64F1-51C0-4148-9C1A-37602E671F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C73F378-1D93-4465-948B-EAC82462A63E}
+	EndGlobalSection
+EndGlobal
